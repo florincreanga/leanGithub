@@ -70,6 +70,9 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an <h6> header, which is the smallest
 ```
 
+# this is an <1> florin header
+## header 2
+
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
